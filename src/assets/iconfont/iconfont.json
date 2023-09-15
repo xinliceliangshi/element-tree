@@ -1,0 +1,23 @@
+{
+  "id": "4000769",
+  "name": "tree",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18916447",
+      "name": "下 拉",
+      "font_class": "xiala1",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "1279412",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
